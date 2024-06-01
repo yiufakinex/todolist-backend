@@ -33,5 +33,5 @@ build/
 .vscode/
 
 ### Database Configuration###
-application.properties
+secrets.properties
 
