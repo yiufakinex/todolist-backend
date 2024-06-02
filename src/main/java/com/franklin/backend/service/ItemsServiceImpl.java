@@ -1,8 +1,9 @@
 package com.franklin.backend.service;
 
-import com.franklin.backend.Entity.Items;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+
+import com.franklin.backend.entity.Items;
 import com.franklin.backend.repository.ItemsRepository;
 
 import java.util.List;

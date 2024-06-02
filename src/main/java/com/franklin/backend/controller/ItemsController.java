@@ -1,6 +1,6 @@
 package com.franklin.backend.controller;
 
-import com.franklin.backend.Entity.Items;
+import com.franklin.backend.entity.Items;
 import com.franklin.backend.service.ItemsService;
 
 import org.springframework.beans.factory.annotation.Autowired;

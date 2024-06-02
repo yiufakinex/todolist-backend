@@ -1,7 +1,8 @@
 package com.franklin.backend.service;
 
-import com.franklin.backend.Entity.Items;
 import java.util.List;
+
+import com.franklin.backend.entity.Items;
 
 public interface ItemsService {
     Items saveItems(Items items);

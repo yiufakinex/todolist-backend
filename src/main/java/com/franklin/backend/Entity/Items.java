@@ -1,4 +1,4 @@
-package com.franklin.backend.Entity;
+package com.franklin.backend.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
